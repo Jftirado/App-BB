@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "511966366785",
+    "firebase_url": "https://systemcontrol-320fe-default-rtdb.firebaseio.com",
+    "project_id": "systemcontrol-320fe",
+    "storage_bucket": "systemcontrol-320fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511966366785:android:f19a377abf207287394ac0",
+        "android_client_info": {
+          "package_name": "com.assisten.gestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcmvLj_QkOrieGlWYDCJFVsS2Gic4FUJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511966366785:android:bf2bb06bc7a0cf2b394ac0",
+        "android_client_info": {
+          "package_name": "com.sys.control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcmvLj_QkOrieGlWYDCJFVsS2Gic4FUJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
