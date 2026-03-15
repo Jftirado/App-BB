@@ -1,11 +1,11 @@
-name: Buil My APK v4
+name: Buil My APK v4.1
 
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 
 jobs:
